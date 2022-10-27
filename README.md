@@ -1,4 +1,4 @@
-# UpworkTest
+# Basic Understanding of NGRX - Add user and render it from store to MatTable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
